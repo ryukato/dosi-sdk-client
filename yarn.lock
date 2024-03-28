@@ -1735,7 +1735,6 @@ __metadata:
   resolution: "@dosi-sdk-client-js/utilities@workspace:packages/utilities"
   dependencies:
     "@babel/runtime": 7.20.7
-    js-base64: ^3.7.7
     typescript: 4.9.4
   languageName: unknown
   linkType: soft

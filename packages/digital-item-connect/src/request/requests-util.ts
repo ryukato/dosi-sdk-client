@@ -1,7 +1,7 @@
 import type { RequestAuthHeader } from '@dosi-sdk-client-js/core';
 import { Base64 } from 'js-base64';
 
-export class RequestAuthHeaderUtil {
+export default class RequestAuthHeaderUtil {
   // eslint-disable-next-line @typescript-eslint/no-empty-function
   private constructor() { }
 
