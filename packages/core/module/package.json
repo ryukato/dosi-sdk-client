@@ -1,0 +1,4 @@
+{
+  "main": "dist/dosi-sdk-client-js-core-module.cjs.js",
+  "module": "dist/dosi-sdk-client-js-core-module.esm.js"
+}

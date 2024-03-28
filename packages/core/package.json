@@ -1,0 +1,31 @@
+{
+  "name": "@dosi-sdk-client-js/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/dosi-sdk-client-js-core.cjs.js",
+  "module": "dist/dosi-sdk-client-js-core.esm.js",
+  "types": "dist/dosi-sdk-client-js-core.cjs.d.ts",
+  "preconstruct": {
+    "entrypoints": [
+      "index.ts",
+      "module/index.ts"
+    ]
+  },
+  "files": [
+    "src",
+    "dist",
+    "module",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {
+    "@babel/runtime": "7.20.7",
+    "@dosi-sdk-client-js/utilities": "1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "4.9.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "@dosi-sdk-client-js/wallet-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/dosi-sdk-client-js-wallet-connect.cjs.js",
+  "module": "dist/dosi-sdk-client-js-wallet-connect.esm.js",
+  "types": "dist/dosi-sdk-client-js-wallet-connect.cjs.d.ts",
+  "files": [
+    "src",
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {
+    "@babel/runtime": "7.20.7",
+    "@dosi-sdk-client-js/core": "1.0.0",
+    "js-base64": "^3.7.7"
+  },
+  "devDependencies": {
+    "typescript": "4.9.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
