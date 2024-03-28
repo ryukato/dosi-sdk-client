@@ -12,8 +12,7 @@
     "README.md"
   ],
   "dependencies": {
-    "@babel/runtime": "7.20.7",
-    "js-base64": "^3.7.7"
+    "@babel/runtime": "7.20.7"
   },
   "devDependencies": {
     "typescript": "4.9.4"

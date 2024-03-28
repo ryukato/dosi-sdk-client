@@ -1,5 +1,5 @@
-import { RequestAuthHeader } from "@dosi-sdk-client-js/core";
-import { Base64 } from "js-base64";
+import type { RequestAuthHeader } from '@dosi-sdk-client-js/core';
+import { Base64 } from 'js-base64';
 
 export class RequestAuthHeaderUtil {
   // eslint-disable-next-line @typescript-eslint/no-empty-function
