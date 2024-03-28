@@ -1,6 +1,6 @@
 {
   "name": "@dosi-sdk-client-js/core",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/dosi-sdk-client-js-core.cjs.js",
   "module": "dist/dosi-sdk-client-js-core.esm.js",
@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "@babel/runtime": "7.20.7",
-    "@dosi-sdk-client-js/utilities": "1.0.0"
+    "@dosi-sdk-client-js/utilities": "0.0.1"
   },
   "devDependencies": {
     "typescript": "4.9.4"

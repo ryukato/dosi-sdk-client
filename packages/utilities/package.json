@@ -1,6 +1,6 @@
 {
   "name": "@dosi-sdk-client-js/utilities",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/dosi-sdk-client-js-utilities.cjs.js",
   "module": "dist/dosi-sdk-client-js-utilities.esm.js",
